@@ -54,17 +54,14 @@ function Dates() {
     {
       headerName: "Make",
       field: "make",
-      filter: "agDateColumnFilter",
     },
     {
       headerName: "Price",
       field: "price",
-      filter: "agDateColumnFilter",
     },
     {
       headerName: "Model",
       field: "model",
-      filter: "agDateColumnFilter",
     },
     {
       headerName: "Date",
